@@ -1,9 +1,9 @@
 <div align="center">
-  <br />
+  <!-- <br />
     <a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
       <img src="public/readme/hero.webp" alt="Project Banner">
     </a>
-  <br />
+  <br /> -->
 
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
